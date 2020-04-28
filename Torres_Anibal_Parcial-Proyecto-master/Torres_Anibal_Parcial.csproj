@@ -143,6 +143,12 @@
     <Compile Include="Proyecto.Designer.cs">
       <DependentUpon>Proyecto.cs</DependentUpon>
     </Compile>
+    <Compile Include="que ondas con el fork.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="que ondas con el fork.Designer.cs">
+      <DependentUpon>que ondas con el fork.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Fbusquedaproductos.resx">
       <DependentUpon>Fbusquedaproductos.cs</DependentUpon>
     </EmbeddedResource>
