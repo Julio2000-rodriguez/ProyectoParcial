@@ -1,0 +1,52 @@
+C:\Users\Anibal de Oz\Desktop\hi\bin\Debug\db_sistema_peliculas.mdf
+C:\Users\Anibal de Oz\Desktop\hi\bin\Debug\db_sistema_peliculas_log.ldf
+C:\Users\Anibal de Oz\Desktop\hi\bin\Debug\Torres_Anibal_Parcial.exe.config
+C:\Users\Anibal de Oz\Desktop\hi\bin\Debug\Torres_Anibal_Parcial.exe
+C:\Users\Anibal de Oz\Desktop\hi\bin\Debug\Torres_Anibal_Parcial.pdb
+C:\Users\Anibal de Oz\Desktop\hi\obj\Debug\Torres_Anibal_Parcial.FAlquiler.resources
+C:\Users\Anibal de Oz\Desktop\hi\obj\Debug\Torres_Anibal_Parcial.FBusquedaclientes.resources
+C:\Users\Anibal de Oz\Desktop\hi\obj\Debug\Torres_Anibal_Parcial.FBusquedapeliculas.resources
+C:\Users\Anibal de Oz\Desktop\hi\obj\Debug\Torres_Anibal_Parcial.FBusquedaregistroalquiler.resources
+C:\Users\Anibal de Oz\Desktop\hi\obj\Debug\Torres_Anibal_Parcial.FClientes.resources
+C:\Users\Anibal de Oz\Desktop\hi\obj\Debug\Torres_Anibal_Parcial.Fmenu.resources
+C:\Users\Anibal de Oz\Desktop\hi\obj\Debug\Torres_Anibal_Parcial.FPeliculas.resources
+C:\Users\Anibal de Oz\Desktop\hi\obj\Debug\Torres_Anibal_Parcial.Properties.Resources.resources
+C:\Users\Anibal de Oz\Desktop\hi\obj\Debug\Segundo_Parcial.csproj.GenerateResource.cache
+C:\Users\Anibal de Oz\Desktop\hi\obj\Debug\Segundo_Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Anibal de Oz\Desktop\hi\obj\Debug\Torres_Anibal_Parcial.exe
+C:\Users\Anibal de Oz\Desktop\hi\obj\Debug\Torres_Anibal_Parcial.pdb
+C:\Users\Anibal de Oz\Desktop\hi\obj\Debug\Segundo_Parcial.csprojAssemblyReference.cache
+C:\Users\Julio Pineda\Desktop\hi\hi\bin\Debug\Torres_Anibal_Parcial.exe.config
+C:\Users\Julio Pineda\Desktop\hi\hi\obj\Debug\Torres_Anibal_Parcial.exe
+C:\Users\Julio Pineda\Desktop\hi\hi\obj\Debug\Torres_Anibal_Parcial.pdb
+C:\Users\Julio Pineda\Desktop\hi\hi\bin\Debug\db_sistema_peliculas.mdf
+C:\Users\Julio Pineda\Desktop\hi\hi\bin\Debug\db_sistema_peliculas_log.ldf
+C:\Users\Julio Pineda\Desktop\hi\hi\bin\Debug\Torres_Anibal_Parcial.exe
+C:\Users\Julio Pineda\Desktop\hi\hi\bin\Debug\Torres_Anibal_Parcial.pdb
+C:\Users\Julio Pineda\Desktop\hi\hi\obj\Debug\Segundo_Parcial.csprojResolveAssemblyReference.cache
+C:\Users\Julio Pineda\Desktop\hi\hi\obj\Debug\Torres_Anibal_Parcial.FAlquiler.resources
+C:\Users\Julio Pineda\Desktop\hi\hi\obj\Debug\Torres_Anibal_Parcial.FBusquedaclientes.resources
+C:\Users\Julio Pineda\Desktop\hi\hi\obj\Debug\Torres_Anibal_Parcial.FBusquedapeliculas.resources
+C:\Users\Julio Pineda\Desktop\hi\hi\obj\Debug\Torres_Anibal_Parcial.FBusquedaregistroalquiler.resources
+C:\Users\Julio Pineda\Desktop\hi\hi\obj\Debug\Torres_Anibal_Parcial.FClientes.resources
+C:\Users\Julio Pineda\Desktop\hi\hi\obj\Debug\Torres_Anibal_Parcial.Fmenu.resources
+C:\Users\Julio Pineda\Desktop\hi\hi\obj\Debug\Torres_Anibal_Parcial.FPeliculas.resources
+C:\Users\Julio Pineda\Desktop\hi\hi\obj\Debug\Torres_Anibal_Parcial.Properties.Resources.resources
+C:\Users\Julio Pineda\Desktop\hi\hi\obj\Debug\Segundo_Parcial.csproj.GenerateResource.Cache
+C:\Users\carlo\Desktop\ayuda julio\hi\hi\bin\Debug\Torres_Anibal_Parcial.exe.config
+C:\Users\carlo\Desktop\ayuda julio\hi\hi\obj\Debug\Torres_Anibal_Parcial.exe
+C:\Users\carlo\Desktop\ayuda julio\hi\hi\obj\Debug\Torres_Anibal_Parcial.pdb
+C:\Users\carlo\Desktop\ayuda julio\hi\hi\bin\Debug\db_sistema_peliculas.mdf
+C:\Users\carlo\Desktop\ayuda julio\hi\hi\bin\Debug\db_sistema_peliculas_log.ldf
+C:\Users\carlo\Desktop\ayuda julio\hi\hi\bin\Debug\Torres_Anibal_Parcial.exe
+C:\Users\carlo\Desktop\ayuda julio\hi\hi\bin\Debug\Torres_Anibal_Parcial.pdb
+C:\Users\carlo\Desktop\ayuda julio\hi\hi\obj\Debug\Segundo_Parcial.csprojResolveAssemblyReference.cache
+C:\Users\carlo\Desktop\ayuda julio\hi\hi\obj\Debug\Torres_Anibal_Parcial.FAlquiler.resources
+C:\Users\carlo\Desktop\ayuda julio\hi\hi\obj\Debug\Torres_Anibal_Parcial.FBusquedaclientes.resources
+C:\Users\carlo\Desktop\ayuda julio\hi\hi\obj\Debug\Torres_Anibal_Parcial.FBusquedapeliculas.resources
+C:\Users\carlo\Desktop\ayuda julio\hi\hi\obj\Debug\Torres_Anibal_Parcial.FBusquedaregistroalquiler.resources
+C:\Users\carlo\Desktop\ayuda julio\hi\hi\obj\Debug\Torres_Anibal_Parcial.FClientes.resources
+C:\Users\carlo\Desktop\ayuda julio\hi\hi\obj\Debug\Torres_Anibal_Parcial.Fmenu.resources
+C:\Users\carlo\Desktop\ayuda julio\hi\hi\obj\Debug\Torres_Anibal_Parcial.FPeliculas.resources
+C:\Users\carlo\Desktop\ayuda julio\hi\hi\obj\Debug\Torres_Anibal_Parcial.Properties.Resources.resources
+C:\Users\carlo\Desktop\ayuda julio\hi\hi\obj\Debug\Segundo_Parcial.csproj.GenerateResource.Cache
